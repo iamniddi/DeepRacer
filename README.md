@@ -57,9 +57,9 @@ After two hours of learning with the code I put up, It showed a stable, upward g
 <p align="center"><img src="https://github.com/iamniddi/DeepRacer/assets/110338470/6b5a4531-6863-4630-ab32-9af23948f43a" width="60%" height="60%"></p>
 <br/><br/>
 
-![2](https://github.com/iamniddi/DeepRacer/assets/110338470/f0fd1eb1-ef9f-44c8-9f54-0f452895796c)
+![2](https://github.com/iamniddi/DeepRacer/assets/110338470/f0fd1eb1-ef9f-44c8-9f54-0f452895796c){: .align-center}
 
-![1](https://github.com/iamniddi/DeepRacer/assets/110338470/5c13bb3c-1987-48bf-9bd2-71de1df51245)
+![1](https://github.com/iamniddi/DeepRacer/assets/110338470/5c13bb3c-1987-48bf-9bd2-71de1df51245){: .align-center}
 
 <br/><br/><br/>
 
