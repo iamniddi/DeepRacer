@@ -17,7 +17,7 @@ In this situation, I would like to share some tips and experiences that our team
 ### 1. Remember, it's not a virtual race
 In a virtual race, many people calculate the shortest path of a track and make it run on that waypoint. Our team also approached it that way at first.<br/>
 
-<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/fb199964-296c-4279-b42e-52851118f36b" width="60%" height="60%">
+<p align="center"><img src="https://github.com/iamniddi/DeepRacer/assets/110338470/fb199964-296c-4279-b42e-52851118f36b" width="60%" height="60%"></p>
 
 In a virtual environment, it worked well and set a fast record. But it was different on the actual track. The vehicle moves to the designated waypoint even if the starting point is slightly different. In other words, we can't cope with flexible situations
 <br/>
@@ -55,7 +55,10 @@ Finally, you need to adjust the "calibration" of the deep racer machine, but it'
 
 After two hours of learning with the code I put up, It showed a stable, upward graph. And as a result, our team won.
 <img src="https://github.com/iamniddi/DeepRacer/assets/110338470/6b5a4531-6863-4630-ab32-9af23948f43a" width="60%" height="60%">
-
+<br/><br/>
+![2](https://github.com/iamniddi/DeepRacer/assets/110338470/f0fd1eb1-ef9f-44c8-9f54-0f452895796c)
+<br/><br/>
+![1](https://github.com/iamniddi/DeepRacer/assets/110338470/5c13bb3c-1987-48bf-9bd2-71de1df51245)
 
 <br/><br/><br/>
 
