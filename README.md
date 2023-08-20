@@ -8,8 +8,8 @@ We also needed a model to run reliably on any track because the track that we wo
 
 In this situation, I would like to share some tips and experiences that our team has realized.
 
-<b/r><b/r><b/r><b/r><b/r>
 
+<br/><br/><br/><br/><br/>
 
 
 
@@ -17,23 +17,23 @@ In this situation, I would like to share some tips and experiences that our team
 ### 1. Remember, it's not a virtual race
 
 In a virtual race, many people calculate the shortest path of a track and make it run on that waypoint. Our team also approached it that way at first.
-<b/r>
+<br/>
 ![1](https://github.com/iamniddi/DeepRacer/assets/110338470/fb199964-296c-4279-b42e-52851118f36b){: width="50" height="50"}
 
 In a virtual environment, it worked well and set a fast record. But it was different on the actual track. The vehicle moves to the designated waypoint even if the starting point is slightly different. In other words, we can't cope with flexible situations
-
+<br/>
 There's a way to run the shortest route flexibly, but at least our team didn't find that way. So we had to abandon this strategy. 
 
 
 
 ### 2. Keep the code simple
-
+<br/>
 We decided to reduce the code briefly. Both virtual competitions on Amazon and competitions on real-world tracks use sophisticated but complex algorithms. It's sometimes useful, but we basically didn't know which track to run on.
 
-
+<br/><br/>
 
 ### 3. You have to pick a good track to learn
-
+<br/><br/>
 It's the most important strategy. The deep racer recognizes the road through the camera and selects the learned speed and direction to move.  
 When you first train a model, if you train a track with various curves, even in an anomalous situation, the camera will recognize the road that has already been learned.
 
