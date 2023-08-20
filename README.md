@@ -34,7 +34,7 @@ We decided to reduce the code briefly. Both virtual competitions on Amazon and c
 It's the most important strategy. The deep racer recognizes the road through the camera and selects the learned speed and direction to move.  
 When you first train a model, if you train a track with various curves, even in an anomalous situation, the camera will recognize the road that has already been learned.
 
-<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/1be071d2-727c-470c-9bf7-c28a3c9f8cd2" width="60%" height="60%">
+<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/1be071d2-727c-470c-9bf7-c28a3c9f8cd2" width="30%" height="30%">
 We found that track is "Bowie Track".There are various directions in various directions and stable than it.
 
 
@@ -48,7 +48,7 @@ Models learned from Bowie Track also run reliably on other tracks. We also confi
 Finally, you need to adjust the "calibration" of the deep racer machine, but it's really sensory-dependent. Prepare the vehicle and track, change the value little by little, and find the right value
 
 
-
+<br/><br/><br/>
 ### Our model
 
 After two hours of learning with the code I put up, It showed a stable, upward graph. And as a result, our team won.
