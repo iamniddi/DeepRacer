@@ -34,7 +34,7 @@ We decided to reduce the code briefly. Both virtual competitions on Amazon and c
 It's the most important strategy. The deep racer recognizes the road through the camera and selects the learned speed and direction to move.  
 When you first train a model, if you train a track with various curves, even in an anomalous situation, the camera will recognize the road that has already been learned.
 
-<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/1be071d2-727c-470c-9bf7-c28a3c9f8cd2" width="30%" height="30%">
+<p align="center"><img src="https://github.com/iamniddi/DeepRacer/assets/110338470/1be071d2-727c-470c-9bf7-c28a3c9f8cd2" width="30%" height="30%"></p>
 <br/>
 We found that track is "Bowie Track".There are various directions in various directions and stable than it.
 
@@ -42,7 +42,7 @@ We found that track is "Bowie Track".There are various directions in various dir
 
 Models learned from Bowie Track also run reliably on other tracks. We also confirmed that it runs steadily when it is driven on a real track.
 
-<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/790c1670-8ee7-42db-aa90-0e78b77f3ccc" width="60%" height="60%">
+<p align="center"><img src="https://github.com/iamniddi/DeepRacer/assets/110338470/790c1670-8ee7-42db-aa90-0e78b77f3ccc" width="60%" height="60%"></p>
 <br/><br/><br/>
 
 ### 4. Calibration
@@ -54,11 +54,11 @@ Finally, you need to adjust the "calibration" of the deep racer machine, but it'
 ### Our model
 
 After two hours of learning with the code I put up, It showed a stable, upward graph. And as a result, our team won.
-<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/6b5a4531-6863-4630-ab32-9af23948f43a" width="60%" height="60%">
+<p align="center"><img src="https://github.com/iamniddi/DeepRacer/assets/110338470/6b5a4531-6863-4630-ab32-9af23948f43a" width="60%" height="60%"></p>
 <br/><br/>
-![2](https://github.com/iamniddi/DeepRacer/assets/110338470/f0fd1eb1-ef9f-44c8-9f54-0f452895796c)
+![2](https://github.com/iamniddi/DeepRacer/assets/110338470/f0fd1eb1-ef9f-44c8-9f54-0f452895796c){: .align-center}
 <br/><br/>
-![1](https://github.com/iamniddi/DeepRacer/assets/110338470/5c13bb3c-1987-48bf-9bd2-71de1df51245)
+![1](https://github.com/iamniddi/DeepRacer/assets/110338470/5c13bb3c-1987-48bf-9bd2-71de1df51245){: .align-center}
 
 <br/><br/><br/>
 
