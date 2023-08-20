@@ -15,7 +15,7 @@ In this situation, I would like to share some tips and experiences that our team
 
 
 ### 1. Remember, it's not a virtual race
-<br/>
+<br/><br/>
 In a virtual race, many people calculate the shortest path of a track and make it run on that waypoint. Our team also approached it that way at first.<br/>
 
 <img src="https://github.com/iamniddi/DeepRacer/assets/110338470/fb199964-296c-4279-b42e-52851118f36b" width="60%" height="60%">
