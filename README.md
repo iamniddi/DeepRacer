@@ -89,6 +89,6 @@ Fortunately, my team without me won the championship, and I felt rewarded
 ### 2022 team members
 <br/>
 
-[Jung JaeYoung] (https://github.com/recordpang)
+[Jung JaeYoung](https://github.com/recordpang)
 
-[Jung Heechul] (https://github.com/IronPower9K)
+[Jung Heechul](https://github.com/IronPower9K)
