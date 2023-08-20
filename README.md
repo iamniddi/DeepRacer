@@ -1,6 +1,6 @@
 # Deep Racer on a Real Track
 
-
+<br/><br/>
 
 In 2022, Dong-A University and Hanoi National University jointly hosted the "Deep Racer" competition. Since this competition is not a virtual race, So our team needed a code and model that drive well on the real track.
 
@@ -83,3 +83,10 @@ In 2022, we went to Hanoi, Vietnam. Received hospitality from Hanoi National Uni
 However, I was suddenly informed by the university that I could not participate in the competition. I was not apologised for my efforts and expenses, and everything went to nothing. I had the worst experience. I don't want this to happen again
 
 Fortunately, my team without me won the championship, and I felt rewarded
+
+<br/><br/><br/>
+
+### 2022 team members
+<br/>
+Jung Jae Young(https://github.com/recordpang)
+Jung Heechul(https://github.com/IronPower9K)
