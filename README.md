@@ -8,7 +8,7 @@ We also needed a model to run reliably on any track because the track that we wo
 
 In this situation, I would like to share some tips and experiences that our team has realized.
 
-
+<b/r><b/r><b/r><b/r><b/r>
 
 
 
@@ -17,8 +17,8 @@ In this situation, I would like to share some tips and experiences that our team
 ### 1. Remember, it's not a virtual race
 
 In a virtual race, many people calculate the shortest path of a track and make it run on that waypoint. Our team also approached it that way at first.
-
-![1](https://github.com/iamniddi/DeepRacer/assets/110338470/fb199964-296c-4279-b42e-52851118f36b){: width="70" height="70"}
+<b/r>
+![1](https://github.com/iamniddi/DeepRacer/assets/110338470/fb199964-296c-4279-b42e-52851118f36b){: width="50" height="50"}
 
 In a virtual environment, it worked well and set a fast record. But it was different on the actual track. The vehicle moves to the designated waypoint even if the starting point is slightly different. In other words, we can't cope with flexible situations
 
