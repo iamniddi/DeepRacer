@@ -22,13 +22,13 @@ In a virtual race, many people calculate the shortest path of a track and make i
 In a virtual environment, it worked well and set a fast record. But it was different on the actual track. The vehicle moves to the designated waypoint even if the starting point is slightly different. In other words, we can't cope with flexible situations
 <br/>
 There's a way to run the shortest route flexibly, but at least our team didn't find that way. So we had to abandon this strategy. 
-<br/><br/>
+<br/><br/><br/>
 
 
 ### 2. Keep the code simple
 We decided to reduce the code briefly. Both virtual competitions on Amazon and competitions on real-world tracks use sophisticated but complex algorithms. It's sometimes useful, but we basically didn't know which track to run on.
 
-<br/><br/>
+<br/><br/><br/>
 
 ### 3. You have to pick a good track to learn
 It's the most important strategy. The deep racer recognizes the road through the camera and selects the learned speed and direction to move.  
@@ -43,7 +43,7 @@ We found that track is "Bowie Track".There are various directions in various dir
 Models learned from Bowie Track also run reliably on other tracks. We also confirmed that it runs steadily when it is driven on a real track.
 
 <img src="https://github.com/iamniddi/DeepRacer/assets/110338470/790c1670-8ee7-42db-aa90-0e78b77f3ccc" width="60%" height="60%">
-<br/><br/>
+<br/><br/><br/>
 
 ### 4. Calibration
 
@@ -57,7 +57,7 @@ After two hours of learning with the code I put up, It showed a stable, upward g
 <img src="https://github.com/iamniddi/DeepRacer/assets/110338470/6b5a4531-6863-4630-ab32-9af23948f43a" width="60%" height="60%">
 
 
-<br/><br/>
+<br/><br/><br/>
 
 
 
