@@ -44,6 +44,7 @@ Models learned from Bowie Track also run reliably on other tracks. We also confi
 
 <img src="https://github.com/iamniddi/DeepRacer/assets/110338470/790c1670-8ee7-42db-aa90-0e78b77f3ccc" width="60%" height="60%">
 <br/><br/>
+
 ### 4. Calibration
 
 Finally, you need to adjust the "calibration" of the deep racer machine, but it's really sensory-dependent. Prepare the vehicle and track, change the value little by little, and find the right value
