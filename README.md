@@ -35,6 +35,7 @@ It's the most important strategy. The deep racer recognizes the road through the
 When you first train a model, if you train a track with various curves, even in an anomalous situation, the camera will recognize the road that has already been learned.
 
 <img src="https://github.com/iamniddi/DeepRacer/assets/110338470/1be071d2-727c-470c-9bf7-c28a3c9f8cd2" width="30%" height="30%">
+<br/>
 We found that track is "Bowie Track".There are various directions in various directions and stable than it.
 
 
