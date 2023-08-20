@@ -15,7 +15,7 @@ In this situation, I would like to share some tips and experiences that our team
 
 
 ### 1. Remember, it's not a virtual race
-<br/><br/>
+<br/>
 In a virtual race, many people calculate the shortest path of a track and make it run on that waypoint. Our team also approached it that way at first.<br/>
 
 <img src="https://github.com/iamniddi/DeepRacer/assets/110338470/fb199964-296c-4279-b42e-52851118f36b" width="60%" height="60%">
@@ -33,19 +33,18 @@ We decided to reduce the code briefly. Both virtual competitions on Amazon and c
 <br/><br/>
 
 ### 3. You have to pick a good track to learn
-<br/><br/>
+<br/>
 It's the most important strategy. The deep racer recognizes the road through the camera and selects the learned speed and direction to move.  
 When you first train a model, if you train a track with various curves, even in an anomalous situation, the camera will recognize the road that has already been learned.
 
-
-
+<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/1be071d2-727c-470c-9bf7-c28a3c9f8cd2" width="60%" height="60%">
 We found that track is "Bowie Track".There are various directions in various directions and stable than it.
 
 
 
 Models learned from Bowie Track also run reliably on other tracks. We also confirmed that it runs steadily when it is driven on a real track.
 
-
+<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/790c1670-8ee7-42db-aa90-0e78b77f3ccc" width="60%" height="60%">
 
 ### 4. Calibration
 
@@ -56,7 +55,7 @@ Finally, you need to adjust the "calibration" of the deep racer machine, but it'
 ### Our model
 
 After two hours of learning with the code I put up, It showed a stable, upward graph. And as a result, our team won.
-
+<img src="https://github.com/iamniddi/DeepRacer/assets/110338470/6b5a4531-6863-4630-ab32-9af23948f43a" width="60%" height="60%">
 
 
 
